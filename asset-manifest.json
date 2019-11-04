@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/data_science_blog/static/css/main.f2513833.chunk.css",
-    "main.js": "/data_science_blog/static/js/main.288622a1.chunk.js",
-    "main.js.map": "/data_science_blog/static/js/main.288622a1.chunk.js.map",
-    "runtime-main.js": "/data_science_blog/static/js/runtime-main.8b7ca38a.js",
-    "runtime-main.js.map": "/data_science_blog/static/js/runtime-main.8b7ca38a.js.map",
-    "static/js/2.ce1f3623.chunk.js": "/data_science_blog/static/js/2.ce1f3623.chunk.js",
-    "static/js/2.ce1f3623.chunk.js.map": "/data_science_blog/static/js/2.ce1f3623.chunk.js.map",
-    "index.html": "/data_science_blog/index.html",
-    "precache-manifest.4ef320b2a1701f381aa1477cbf524e97.js": "/data_science_blog/precache-manifest.4ef320b2a1701f381aa1477cbf524e97.js",
-    "service-worker.js": "/data_science_blog/service-worker.js",
-    "static/css/main.f2513833.chunk.css.map": "/data_science_blog/static/css/main.f2513833.chunk.css.map",
-    "static/media/logo.svg": "/data_science_blog/static/media/logo.25bf045c.svg"
+    "main.css": "/barChartRaceD3Application/static/css/main.f2513833.chunk.css",
+    "main.js": "/barChartRaceD3Application/static/js/main.c01e30b6.chunk.js",
+    "main.js.map": "/barChartRaceD3Application/static/js/main.c01e30b6.chunk.js.map",
+    "runtime-main.js": "/barChartRaceD3Application/static/js/runtime-main.a9e1b938.js",
+    "runtime-main.js.map": "/barChartRaceD3Application/static/js/runtime-main.a9e1b938.js.map",
+    "static/js/2.ce1f3623.chunk.js": "/barChartRaceD3Application/static/js/2.ce1f3623.chunk.js",
+    "static/js/2.ce1f3623.chunk.js.map": "/barChartRaceD3Application/static/js/2.ce1f3623.chunk.js.map",
+    "index.html": "/barChartRaceD3Application/index.html",
+    "precache-manifest.ab47eef5c2d0fd9fbed8b8ae68fe6207.js": "/barChartRaceD3Application/precache-manifest.ab47eef5c2d0fd9fbed8b8ae68fe6207.js",
+    "service-worker.js": "/barChartRaceD3Application/service-worker.js",
+    "static/css/main.f2513833.chunk.css.map": "/barChartRaceD3Application/static/css/main.f2513833.chunk.css.map",
+    "static/media/logo.svg": "/barChartRaceD3Application/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b7ca38a.js",
+    "static/js/runtime-main.a9e1b938.js",
     "static/js/2.ce1f3623.chunk.js",
     "static/css/main.f2513833.chunk.css",
-    "static/js/main.288622a1.chunk.js"
+    "static/js/main.c01e30b6.chunk.js"
   ]
 }
